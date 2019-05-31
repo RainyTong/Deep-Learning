@@ -1,7 +1,7 @@
 # Deep-Learning
 > Author: Yutong Wang  
 > Course: Deep Learning (CS324) by Luca Rossil  
-> Colledge: SUSTech
+> College: SUSTech
 
 - Perceptron:
   
@@ -11,7 +11,7 @@
     
 - Multiple Layer Perceptron:
 
-  To implement a multi-layer perceptron using **numpy**.
+  To implement a multi-layer perceptron using **Numpy**.
   
   - [train_mlp_numpy_BGD.ipynb](https://github.com/RainyTong/Deep-Learning/blob/master/MLPandPerceptron/Part2%20MLP_Numpy/train_mlp_numpy_BGD.ipynb)
   - [train_mlp_numpy_SGD.ipynb](https://github.com/RainyTong/Deep-Learning/blob/master/MLPandPerceptron/Part2%20MLP_Numpy/train_mlp_numpy_SGD.ipynb)
