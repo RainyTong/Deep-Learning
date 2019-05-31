@@ -29,11 +29,11 @@
   
     To implement a RNN to predict the last digit of a palindrome. Palindromes in general are strings that look the same when read forward and backward, e.g., 123454321, 1111, 4224, etc.
   
-  - [rnn_train.ipynb](https://github.com/RainyTong/Deep-Learning/blob/master/CNN_RNN/Part3%20RNN/rnn_train.ipynb)
+    - [rnn_train.ipynb](https://github.com/RainyTong/Deep-Learning/blob/master/CNN_RNN/Part3%20RNN/rnn_train.ipynb)
   
     To implement a LSTM-RNN to predict the last digit of a palindrome. 
   
-  - [lstm_train.ipynb](https://github.com/RainyTong/Deep-Learning/blob/master/LSTM_GAN/Part1%20LSTM/lstm_train.ipynb)
+    - [lstm_train.ipynb](https://github.com/RainyTong/Deep-Learning/blob/master/LSTM_GAN/Part1%20LSTM/lstm_train.ipynb)
   
 - GAN:
 
