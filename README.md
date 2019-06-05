@@ -1,6 +1,6 @@
 # Deep-Learning
 > Author: Yutong Wang  
-> Course: Deep Learning (CS324) by Luca Rossi
+> Course: Deep Learning (CS324) by Luca Rossi     
 > College: SUSTech
 
 - Perceptron:
